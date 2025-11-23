@@ -21,7 +21,7 @@ This is a simple, command-line (CLI) application designed to help students manag
 
 1.  **Clone the Repository:**
     ```bash
-    git clone 
+    git clone https://github.com/kriti25bai10713-hue/daily-expense-and-pocket-money-tracker-.git
     cd Daily-Expense-Tracker
     ```
 
