@@ -1,10 +1,3 @@
-# main.py
-
-from entry import create_entry
-from storage import save_entry, load_entries
-from report import show_entries, show_summary
-from menu import show_menu, get_user_input
-
 def run():
     print("=== DAILY EXPENSE & POCKET MONEY TRACKER ===")
     while True:
@@ -27,5 +20,4 @@ def run():
         else:
             print("Invalid choice. Try again.")
 
-# Uncomment the below line only for interactive use.
-# run()
+run()  # Don't forget to run this for tracking operation
