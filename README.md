@@ -16,6 +16,6 @@ This is a simple, command-line (CLI) application designed to help students manag
 * **Version Control:** Git
 
 ## 🚀 Installation & Run Steps
-1.  **Clone the Repository:** `git clone [Your-Repo-URL]`
+1.  **Clone the Repository:** `git clone https://github.com/kriti25bai10713-hue/daily-expense-and-pocket-money-tracker-.git`
 2.  **Install Dependencies:** `pip install -r requirements.txt`
 3.  **Run:** `python src/main.py`
