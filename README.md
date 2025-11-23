@@ -21,7 +21,7 @@ This is a simple, command-line (CLI) application designed to help students manag
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your-Repo-URL]
+    git clone 
     cd Daily-Expense-Tracker
     ```
 
